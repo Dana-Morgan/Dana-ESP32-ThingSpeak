@@ -74,14 +74,30 @@ This makes the recent temperature and humidity changes clearer and keeps the tim
 
 ## Screenshots
 
-The `screenshots` folder includes:
 
-- `wokwi-circuit` — ESP32 circuit and wiring diagram.
-- `serial-monitor` — Sensor readings and successful data transmission.
-- `thingspeak-channel` — Public ThingSpeak channel information.
-- `temperature-graph` — Temperature readings over time.
-- `humidity-graph` — Humidity readings over time.
-- `thingspeak-results` — Both ThingSpeak charts together.
+## Screenshots
+
+The following screenshots show the circuit,
+sensor readings, and ThingSpeak results.
+
+### Wokwi Circuit
+![Wokwi Circuit](wokwi-circuit.png)
+
+### Serial Monitor
+![Serial Monitor](serial-monitor.png)
+
+### ThingSpeak Channel
+![ThingSpeak Channel](thingspeak-channel.jpg)
+
+### Temperature Graph
+![Temperature Graph](temperature-graph.jpg)
+
+### Humidity Graph
+![Humidity Graph](humidity-graph.jpg)
+
+### ThingSpeak Results
+![ThingSpeak Results](thingspeak-results.jpg)
+
 
 ## Running the Project
 
